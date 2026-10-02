@@ -1,0 +1,14 @@
+C:\Users\aluno\Documents\CalculadoraDescontos\CalculadoraDescontos.App\bin\Debug\net10.0\CalculadoraDescontos.App.exe
+C:\Users\aluno\Documents\CalculadoraDescontos\CalculadoraDescontos.App\bin\Debug\net10.0\CalculadoraDescontos.App.deps.json
+C:\Users\aluno\Documents\CalculadoraDescontos\CalculadoraDescontos.App\bin\Debug\net10.0\CalculadoraDescontos.App.runtimeconfig.json
+C:\Users\aluno\Documents\CalculadoraDescontos\CalculadoraDescontos.App\bin\Debug\net10.0\CalculadoraDescontos.App.dll
+C:\Users\aluno\Documents\CalculadoraDescontos\CalculadoraDescontos.App\bin\Debug\net10.0\CalculadoraDescontos.App.pdb
+C:\Users\aluno\Documents\CalculadoraDescontos\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\CalculadoraDescontos\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\CalculadoraDescontos\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.AssemblyInfo.cs
+C:\Users\aluno\Documents\CalculadoraDescontos\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\CalculadoraDescontos\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.dll
+C:\Users\aluno\Documents\CalculadoraDescontos\CalculadoraDescontos.App\obj\Debug\net10.0\refint\CalculadoraDescontos.App.dll
+C:\Users\aluno\Documents\CalculadoraDescontos\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.pdb
+C:\Users\aluno\Documents\CalculadoraDescontos\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.genruntimeconfig.cache
+C:\Users\aluno\Documents\CalculadoraDescontos\CalculadoraDescontos.App\obj\Debug\net10.0\ref\CalculadoraDescontos.App.dll
